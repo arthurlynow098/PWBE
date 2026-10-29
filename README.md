@@ -1,0 +1,28 @@
+<p align="center"><img src="https://raw.githubusercontent.com/arthurlynow098/arthurlynow098/main/assets/ars-codex-banner.png" alt="Arthur Mendes Entsev — gravura alquímica minimalista" width="100%"></p>
+
+<p align="center"><sub>☉ &nbsp; ARS CODEX &nbsp; · &nbsp; PWBE &nbsp; ☽</sub></p>
+
+---
+
+# PWBE
+
+## Sobre o projeto
+
+Material de estudo de programação web back-end. A raiz reúne o arquivo `Node.js` e a imagem `Nodejs.png`.
+
+## Como explorar
+
+Consulte o arquivo `Node.js` e a imagem de apoio. A raiz não contém `package.json`, portanto não há um comando npm de inicialização definido.
+
+## Mapa do repositório
+
+- [Node.js](Node.js)
+- [Nodejs.png](Nodejs.png)
+
+## Desenvolvimento
+
+As instruções acima descrevem os arquivos disponíveis. A execução da aplicação não foi validada nesta revisão de documentação.
+
+---
+
+<p align="center"><sub>☿ &nbsp; Estudo · construção · evolução &nbsp; ☿</sub><br><a href="https://github.com/arthurlynow098">Perfil</a> · <a href="https://arthurentsev.vercel.app/">Portfólio</a></p>
