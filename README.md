@@ -1,37 +1,33 @@
 <p align="center">
-  <img src="assets/banner-v2.png" alt="PWBE" width="100%">
+  <img src="assets/identity/banner.png" alt="PWBE" width="100%">
 </p>
 
 <p align="center">Material de estudo sobre JavaScript no servidor e execução assíncrona com Node.js.</p>
 
-<p align="center"><img src="assets/docs/tags.svg" alt="Node.js · JavaScript · Back-end" width="100%"></p>
 
 <p align="center"><a href="#visão-geral">Visão geral</a> &nbsp;·&nbsp; <a href="#recursos">Recursos</a> &nbsp;·&nbsp; <a href="#como-explorar">Como explorar</a></p>
 
----
+<p align="center"><img src="assets/identity/divider.svg" alt="" width="100%"></p>
 
 <a id="explore-o-projeto"></a>
 
-![Explore o projeto](assets/docs/section-01.svg)
+## Por onde começar
 
-![Mapa visual dos arquivos e responsabilidades](assets/docs/map.svg)
 
-<table width="100%">
-<tr><th align="left">Área</th><th align="left">O que você encontra</th><th align="left">Acesso direto</th></tr>
-<tr><td><strong>Estudo</strong></td><td>Material introdutório sobre Node.js.</td><td><a href="Node.js">Abrir estudo →</a></td></tr>
-<tr><td><strong>Material visual</strong></td><td>Imagem de referência presente no repositório.</td><td><a href="Nodejs.png">Abrir material visual →</a></td></tr>
-<tr><td><strong>Orientações</strong></td><td>Contexto e guia de exploração do material.</td><td><a href="README.md">Abrir orientações →</a></td></tr>
-</table>
+- **[Estudo](Node.js)** — Material introdutório sobre Node.js.
+- **[Material visual](Nodejs.png)** — Imagem de referência presente no repositório.
+- **[Orientações](README.md)** — Contexto e guia de exploração do material.
+
 
 <a id="visão-geral"></a>
 
-![Visão geral](assets/docs/section-02.svg)
+## Visão geral
 
 O repositório **PWBE (Programação Web Back-End)** registra a introdução ao desenvolvimento de servidores utilizando **Node.js**, compreendendo como o motor V8 do Google e a arquitetura *Event Loop Single-Thread Non-Blocking I/O* permitem processar requisições concorrentes com alto desempenho.
 
 <a id="recursos"></a>
 
-![Recursos](assets/docs/section-03.svg)
+## Recursos
 
 | Elemento | Descrição |
 |---|---|
@@ -56,7 +52,7 @@ flowchart LR
 ```text
 PWBE/
 ├── assets/
-│   └── banner-v2.png               Banner do projeto
+│   └── identity/banner.png               Banner do projeto
 ├── Node.js                         Arquivo de estudo e código Node.js
 ├── Nodejs.png                      Diagrama / imagem de referência
 └── README.md
@@ -66,7 +62,7 @@ PWBE/
 
 <a id="como-explorar"></a>
 
-![Como explorar](assets/docs/section-04.svg)
+## Como explorar
 
 1. Clone o repositório:
    ```bash
@@ -75,7 +71,7 @@ PWBE/
    ```
 2. Consulte o arquivo Node.js e execute-o com o runtime instalado (node Node.js).
 
----
+<p align="center"><img src="assets/identity/divider.svg" alt="" width="100%"></p>
 
 <p align="center">
   <a href="https://github.com/arthurlynow098">GitHub</a> &nbsp;·&nbsp;
