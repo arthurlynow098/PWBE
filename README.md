@@ -4,21 +4,33 @@
 
 <p align="center">Material de estudo sobre JavaScript no servidor e execução assíncrona com Node.js.</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-C52E36?style=flat-square" alt="Node.js">
-  <img src="https://img.shields.io/badge/JavaScript-24272E?style=flat-square" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Back--end-24272E?style=flat-square" alt="Back-end">
-</p>
+<p align="center"><img src="assets/docs/tags.svg" alt="Node.js · JavaScript · Back-end" width="72%"></p>
 
 <p align="center"><a href="#visão-geral">Visão geral</a> &nbsp;·&nbsp; <a href="#recursos">Recursos</a> &nbsp;·&nbsp; <a href="#como-explorar">Como explorar</a></p>
 
 ---
 
-## Visão geral
+<a id="explore-o-projeto"></a>
+
+![Explore o projeto](assets/docs/section-01.svg)
+
+![Mapa visual dos arquivos e responsabilidades](assets/docs/map.svg)
+
+| Área | O que você encontra | Acesso direto |
+|---|---|---|
+| **Estudo** | Material introdutório sobre Node.js. | [Abrir estudo →](Node.js) |
+| **Material visual** | Imagem de referência presente no repositório. | [Abrir material visual →](Nodejs.png) |
+| **Orientações** | Contexto e guia de exploração do material. | [Abrir orientações →](README.md) |
+
+<a id="visão-geral"></a>
+
+![Visão geral](assets/docs/section-02.svg)
 
 O repositório **PWBE (Programação Web Back-End)** registra a introdução ao desenvolvimento de servidores utilizando **Node.js**, compreendendo como o motor V8 do Google e a arquitetura *Event Loop Single-Thread Non-Blocking I/O* permitem processar requisições concorrentes com alto desempenho.
 
-## Recursos
+<a id="recursos"></a>
+
+![Recursos](assets/docs/section-03.svg)
 
 | Elemento | Descrição |
 |---|---|
@@ -43,7 +55,7 @@ flowchart LR
 ```text
 PWBE/
 ├── assets/
-│   └── project-animal.png          Emblema do projeto
+│   └── banner-v2.png               Banner do projeto
 ├── Node.js                         Arquivo de estudo e código Node.js
 ├── Nodejs.png                      Diagrama / imagem de referência
 └── README.md
@@ -51,7 +63,9 @@ PWBE/
 
 </details>
 
-## Como explorar
+<a id="como-explorar"></a>
+
+![Como explorar](assets/docs/section-04.svg)
 
 1. Clone o repositório:
    ```bash
