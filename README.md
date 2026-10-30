@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="assets/project-animal.png" alt="Emblema de PWBE" width="144" height="144">
+  <img src="assets/banner-v2.png" alt="PWBE" width="100%">
 </p>
-
-<h1 align="center">PWBE</h1>
 
 <p align="center">Material de estudo sobre JavaScript no servidor e execução assíncrona com Node.js.</p>
 
